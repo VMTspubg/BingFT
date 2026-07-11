@@ -3,5 +3,5 @@
     "version_code": 4,
     "changelog": "✅ تثبيت ملفات الهاك والدرايفرات اونلاين \n✅ تحسين أداء التنظيف\n🐛 إصلاح مشكلة نسخ الملفات الكبيرة",
     "apk_url": "https://github.com/VMTspubg/BingFT/releases/download/v1.3.0/VMTappclenaer-debug.apk",
-    "force_update": false
+    "force_update": true
 }
