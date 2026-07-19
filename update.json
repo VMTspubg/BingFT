@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.9.2",
-    "version_code": 11,
+    "latest_version": "1.9.3",
+    "version_code": 12,
     "changelog": "✅ تثبيت ملفات الهاك والدرايفرات اونلاين \n✅ جعل ملفات بينج والدرايفرات مخفيه بالكامل وصلاحيات قويه وخفيه\n🐛 SELinux مفروض على ملفات ببنج والدرايفرات",
     "apk_url": "https://github.com/VMTspubg/BingFT/releases/download/v1.3.0/VMTappclenaer-debug.apk",
     "force_update": true
