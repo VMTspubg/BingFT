@@ -1,6 +1,6 @@
 {
-    "latest_version": "2.3.0",
-    "version_code": 23,
+    "latest_version": "2.4.0",
+    "version_code": 24,
     "changelog": "✅ اضافة ميزه الاداة العالي ل ببجي \n✅ اضافة شريحة قياس البنك التقريبي ل ببجي \n🐛 اضافة زر صغير دائري يجعل التطبيق يعمل بالخلفيه",
     "apk_url": "https://github.com/VMTspubg/BingFT/releases/download/v1.3.0/VMTappclenaer-debug.apk",
     "force_update": true
