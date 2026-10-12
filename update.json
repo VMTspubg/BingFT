@@ -1,7 +1,7 @@
 {
-    "latest_version": "2.8.0",
-    "version_code": 28,
-    "changelog": "✅ تحديث سكربت جديد لبينج ل تحديث 4.6 \n  \n",
-    "apk_url": "https://github.com/VMTspubg/BingFT/releases/download/v1.3.0/MZ8-debug.apk",
+    "latest_version": "2.9.0",
+    "version_code": 29,
+    "changelog": "✅ تحديث درايفرات بينج  وتحسينات اخرى  \n  \n",
+    "apk_url": "https://github.com/VMTspubg/BingFT/releases/download/v1.3.0/VMT-debug.apk",
     "force_update": true
 }
